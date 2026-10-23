@@ -1,0 +1,95 @@
+{
+  "cfg": {
+    "name": "Império da Beleza",
+    "eyebrow": "Barbearia",
+    "title": "Confiança e conforto em cada corte.",
+    "sub": "Um espaço para cuidar do visual sem pressa, com profissionais experientes e ambiente acolhedor.",
+    "about": "Aqui entra a história real do Império da Beleza e da equipe. Texto de exemplo, a ser trocado.",
+    "whats": "17992643758",
+    "insta": "@severo.andrade",
+    "addr": "Rua Exemplo, 000 — Cidade",
+    "hue": 205,
+    "accent": "#000000",
+    "head": "'Cinzel'",
+    "pr": "#242c20",
+    "pw": "#df9a11",
+    "pb": "#a2a4a9"
+  },
+  "hours": [
+    {
+      "o": 0,
+      "a": "18:00",
+      "c": "21:00"
+    },
+    {
+      "o": 1,
+      "a": "18:00",
+      "c": "21:00"
+    },
+    {
+      "o": 1,
+      "a": "18:00",
+      "c": "21:00"
+    },
+    {
+      "o": 1,
+      "a": "18:00",
+      "c": "21:00"
+    },
+    {
+      "o": 1,
+      "a": "18:00",
+      "c": "21:00"
+    },
+    {
+      "o": 1,
+      "a": "18:00",
+      "c": "21:00"
+    },
+    {
+      "o": 1,
+      "a": "18:00",
+      "c": "21:00"
+    }
+  ],
+  "services": [
+    {
+      "id": "s1",
+      "n": "Corte",
+      "d": "Tesoura ou máquina, com acabamento.",
+      "p": 10,
+      "m": 40,
+      "a": true
+    },
+    {
+      "id": "s2",
+      "n": "Barba",
+      "d": "Toalha quente e navalha.",
+      "p": 0,
+      "m": 30,
+      "a": true
+    },
+    {
+      "id": "s3",
+      "n": "Corte + Barba",
+      "d": "O pacote completo.",
+      "p": 0,
+      "m": 70,
+      "a": true
+    },
+    {
+      "id": "s4",
+      "n": "Sobrancelha",
+      "d": "Design com navalha ou pinça.",
+      "p": 0,
+      "m": 20,
+      "a": true
+    }
+  ],
+  "imgs": [
+    "/img/foto1.jpg",
+    "/img/foto2.jpg",
+    "/img/foto3.jpg",
+    "/img/foto4.jpg"
+  ]
+}

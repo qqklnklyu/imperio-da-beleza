@@ -1,0 +1,13 @@
+{
+    "name": "imperio-da-beleza",
+    "version": "2.1.0",
+    "private": true,
+    "description": "Site da barbearia Império da Beleza com painel do proprietário",
+    "scripts": {
+        "start": "node server/index.js",
+        "test": "node tests/security.test.js"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}

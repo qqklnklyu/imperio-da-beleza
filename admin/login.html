@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Acesso do proprietário"
+    >
+
+    <title>Entrar | Império da Beleza</title>
+
+    <link
+        rel="stylesheet"
+        href="/css/base.css"
+    >
+
+    <link
+        rel="stylesheet"
+        href="/admin/css/admin.css"
+    >
+
+    <meta
+        name="robots"
+        content="noindex"
+    >
+</head>
+
+<body>
+
+    <header>
+        <div class="navbar">
+            <a class="logo" href="/">✂ Império da Beleza</a>
+
+            <div class="btns"><a class="btn ghost sm" href="/">← Site</a></div>
+        </div>
+    </header>
+
+    <main class="page narrow">
+        <div class="eyebrow">Área do dono</div>
+
+        <h1>Entrar</h1>
+
+        <form class="panel" id="loginForm">
+            <label>Senha de acesso<input id="password" type="password" autocomplete="current-password" required></label>
+
+            <button class="btn" type="submit">Entrar</button>
+
+            <a class="link center" href="/admin/esqueci">Esqueci minha senha</a>
+        </form>
+    </main>
+
+    <div
+        id="toast"
+        role="status"
+        aria-live="polite"
+    ></div>
+
+    <script src="/js/utils.js"></script>
+    <script src="/admin/js/login.js"></script>
+
+</body>
+
+</html>
