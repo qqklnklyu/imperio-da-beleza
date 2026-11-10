@@ -12,7 +12,7 @@ let store = {
     "title": "Confiança e conforto em cada corte.",
     "sub": "Um espaço para cuidar do visual sem pressa, com profissionais experientes.",
     "about": "Tradição de barbeiro com técnica moderna, em um ambiente pensado para você.",
-    "whats": "5517999999999", 
+    "whats": "5517997355033", 
     "insta": "@imperiodabeleza",
     "addr": "São José do Rio Preto, SP",
     "hue": 30
