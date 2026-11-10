@@ -1,0 +1,8 @@
+.env
+data/site.json
+data/clients.json
+data/auth.json
+data/sessions.json
+public/uploads/*
+!public/uploads/.gitkeep
+node_modules

@@ -1,0 +1,19 @@
+body {
+
+background-color: rgb(62, 34, 34);
+
+}
+
+
+p {
+
+color: aliceblue;
+font-size:40px;
+}
+
+.barra{
+
+width: 100%;
+background-color: black;
+height: 100px;
+}
