@@ -1,0 +1,12 @@
+{
+    "name": "imperio-da-beleza",
+    "version": "3.0.0",
+    "private": true,
+    "description": "Site vitrine da barbearia Império da Beleza - Ibirá/SP",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}
